@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning ReactJS and Typescript<br>👯 I’m looking to collaborate on some open source projects<br>💬 Ask me about anything related to web development</p>
+<p align="left">📚 I'm currently learning Typescript and Firsebase<br>👯 I’m looking to collaborate on some open source projects<br>💬 Ask me about anything related to web development</p>
 
 ###
 
